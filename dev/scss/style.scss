@@ -1,0 +1,240 @@
+.blog-div {
+    width: 780px;
+}
+.popular-blog-div {
+    width: 260px;
+}
+
+.para-pad {
+    padding-bottom: 26px;
+}
+.para-pad-popular {
+    padding-bottom: 13px;
+}
+.desc {
+    font-size: 12px;
+    color: #8a8585 !important;
+}
+
+@font-face {
+    font-family: 'dejavu_sansextralight';
+    src: url('DejaVuSans-ExtraLight-webfont.woff') format('woff')
+}
+
+.right-div  {
+    margin-left: 100px;
+    float: left;
+    width: 260px;
+}
+.left-div   {
+    float:left;
+
+}
+.clear {
+    clear : both;
+}
+.pop-posts {
+    color: #18446b;
+}
+a {
+    color: #18446b !important;
+}
+.pop-post-head {
+    margin-bottom: 3px !important;
+}
+.home {
+    margin-top: 25px !important;
+    margin-bottom: 0px !important;
+    font-size :12px !important;
+}
+
+
+
+
+
+
+
+
+
+
+.category-bg {
+    background-color: #4f7fa9;
+    height: 84px;
+}
+.topnav {
+  overflow: hidden;
+  margin: 23px 0 21px 0;
+}
+
+.topnav a {
+  width: 138px;
+  border: 1px solid #F1BC30;
+  float: left;
+  display: block;
+  color: white !important;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.topnav a:hover {
+
+  color: black;
+}
+
+.topnav a.active {
+    background-color: #F1BC30;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content {
+    float: right;
+    height: 25px;
+    margin: 22px 0 20px 0;
+}
+.content a {
+    padding: 8px 15px;
+    font-weight: bold;
+    color: black !important;
+    font-size: 11.7px;
+}
+.content a.active {
+    color: #F1BC30 !important;
+}
+.claim {
+    width: 40px;
+    background-color: #F1BC30;
+    color: black !important;
+}
+.content a.login {
+    width: 25px;
+    background-color: #18446B;
+    color: white !important;
+}
+
+
+
+
+
+
+
+
+
+.social {
+    background-color: #18446B;
+    height: 22px;
+}
+.img-icon{
+    margin-right:10px;
+}
+
+
+
+
+
+
+
+
+
+.task-head {
+    color: #8a8585 !important;
+    font-size: 50px;
+    font-family: dejavu_sansextralight;
+}
+.task-boxes {
+    border: 1px solid #8a8585;
+    border-radius: 7px;
+    height: 40px;
+    float: left;
+    padding: 7px;
+    font-size: 17px;
+    margin-right: 13px;
+    color: #8a8585 !important;
+}
+.fp {
+    font-size: 13px !important;
+}
+
+
+hr {
+    border-color: black !important;
+}
+
+
+.footer {
+    float: left;
+}
+.map {
+    margin-top: 145px;
+}
+.follow {
+    color: #8a8585 !important;
+    margin-top: 37px;
+}
+.blk_icon_span{
+    margin-left: 28px;
+}
+
+.blk_icon {
+    margin-right: 7px;
+    border: 1px solid #8a8585;
+    border-radius: 50%;
+    width: 46px;
+    height: 46px;
+    padding: 12px;
+}
+
+.quick_links {
+    margin-top: 40px;
+    margin-left: 140px;
+}
+.quick_links_head {
+    margin-bottom: 30px;
+}
+
+.download {
+    margin-top: 40px;
+    margin-left: 140px;
+}
+
+.ebook_form {
+    margin-top: 30px;
+}
+
+.form-icon   {
+    border: 1px solid #95a5b1;
+    padding: 12px;
+    background-color: #d1dae1;
+}
+.input-box {
+        width: 322px;
+        height: 42px;
+        padding-left: 14px;
+}
+
+.align {
+    text-align: center;
+}
+
+.download_button{
+    background-color: #F1BC30;
+    border: 1px solid #F1BC30;
+    height: 44px;
+    width: 162px;
+    padding : 12px;
+    margin-top: 17px;
+}
