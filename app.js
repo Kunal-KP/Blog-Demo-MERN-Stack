@@ -7,5 +7,6 @@ app.use(express.static('src'));
 
 app.all('*',router);
 
-app.listen(process.env.PORT);
+var port = process.env.PORT || 8000;
+app.listen(port);
 console.log('Server started on 8000');
