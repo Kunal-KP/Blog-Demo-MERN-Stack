@@ -8,7 +8,7 @@ import Footer from '../components/Footer';
 
  class BlogList extends React.Component{
 
-   componentWillMount(){
+   componentDidMount(){
         console.log("Inside componentDidMount()");
         {this.props.blogRepo()}
         {this.props.popularBlogRepo()}
