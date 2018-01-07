@@ -1,3 +1,3 @@
 # Blog-Demo-MERN-Stack
 CI integration successful
-Testing CI Scripts
+Testing CI Script
